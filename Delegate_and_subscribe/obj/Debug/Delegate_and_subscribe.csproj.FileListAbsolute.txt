@@ -1,0 +1,6 @@
+C:\Users\nguyenhung\RiderProjects\ConsoleApplication5\Delegate_and_subscribe\bin\Debug\Delegate_and_subscribe.exe
+C:\Users\nguyenhung\RiderProjects\ConsoleApplication5\Delegate_and_subscribe\bin\Debug\Delegate_and_subscribe.pdb
+C:\Users\nguyenhung\RiderProjects\ConsoleApplication5\Delegate_and_subscribe\obj\Debug\Delegate_and_subscribe.csprojAssemblyReference.cache
+C:\Users\nguyenhung\RiderProjects\ConsoleApplication5\Delegate_and_subscribe\obj\Debug\Delegate_and_subscribe.csproj.CoreCompileInputs.cache
+C:\Users\nguyenhung\RiderProjects\ConsoleApplication5\Delegate_and_subscribe\obj\Debug\Delegate_and_subscribe.exe
+C:\Users\nguyenhung\RiderProjects\ConsoleApplication5\Delegate_and_subscribe\obj\Debug\Delegate_and_subscribe.pdb
